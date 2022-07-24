@@ -6,3 +6,5 @@ services:
     build:
       context: .
       dockerfile: SampleSecureApi/Dockerfile
+    ports:
+     - "9000:80"

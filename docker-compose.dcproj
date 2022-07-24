@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>2a98fe7b-8d65-4cc1-8b59-35a50aecdfc0</ProjectGuid>
+    <ProjectGuid>7d8c61c2-b3e0-4787-b17e-ef037e641be2</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>samplesecureapi</DockerServiceName>

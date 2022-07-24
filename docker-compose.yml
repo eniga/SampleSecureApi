@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  samplesecureapi:
+    image: ${DOCKER_REGISTRY-}samplesecureapi
+    build:
+      context: .
+      dockerfile: SampleSecureApi/Dockerfile
